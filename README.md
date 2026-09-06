@@ -2,6 +2,7 @@
 
 **Postdoctoral Research Scientist at Columbia University**  
 ·Research Software Development ·Scientific Machine Learning ·Scientific Knowledge Discovery
+
 📍 New York, NY
 
 I build AI methods and scientific software to help understand the physical world. My work spans materials science, Earth science, chemistry, and computational physics, connecting machine learning with scientific discovery.
